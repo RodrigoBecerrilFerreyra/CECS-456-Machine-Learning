@@ -1,6 +1,11 @@
 This is my final project for CECS 456 - Machine Learning.
-Instructions:
-    1. Load up the ipynb however you want.
-	2. Extract "archive.zip" in the current directory. You should now have the
-	   directory raw-img directory and the translate.py file.
-	   You can ignore the translate.py file.
+
+The file "Final Project.ipynb" is licensed
+under GPLv2+ (GNU General Public License Version 2 or later).
+
+The file "archive.tar" is licensed under GPLv2
+(GNU General Public License Version 2)
+and is adapted from the file "archive.zip", aquired from
+the folowing page: https://www.kaggle.com/datasets/alessiocorrado99/animals10.
+
+The GPLv2 license can be found in the file called "COPYING".
